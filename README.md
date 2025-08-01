@@ -32,7 +32,7 @@ AI Project_Code+Doc/
 │
 ├── lab_term.py          # Main application file
 ├── README.md           # Project documentation
-└── requirements.txt    # Python dependencies (if needed)
+└── requirements.txt    # Python dependencies (if needed-Optional)
 ```
 
 ---
@@ -207,8 +207,8 @@ This project is created for educational purposes. Feel free to use, modify, and 
 
 ## 📞 Contact
 
-Created by: [Your Name]
-Course: AI - SEM-5 CUI
+Created by: Mahad Kamran
+Course: Artificial Intelligence
 Project Type: Lab Terminal Project
 
 For questions or suggestions, please feel free to reach out!
